@@ -1,2 +1,2 @@
 # perl6-c-parser
-C Parser implemented in Perl6
+Experimental C parser implemented in Perl6
